@@ -1,0 +1,56 @@
+import java.util.Scanner;
+
+	public class Meters{
+	
+	public static void main(String[] args){
+	
+	Scanner data = new Scanner(System.in);
+        
+	System.out.println("enter Number in feet");
+	
+	double numInFeet = data nextdouble();
+   
+ 	double result =	numInFeet * 0.305;
+
+ 	System.out.printf("% .3f %n",result);
+
+
+
+
+
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+}

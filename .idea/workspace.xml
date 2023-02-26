@@ -5,53 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af6d43b9-6dad-4825-b3b6-b5b35e543126" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RidwanProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentManagementSystem/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentManagementSystem/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentManagementSystem/StudentData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ainmalOop/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ainmalOop/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ainmalOop/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ainmalOop/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ainmalOop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/ArrayReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/DisplayNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Exercise2DimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Exercise4TwoDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/hi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/singleDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/twoDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bankApp/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bankApp/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gradebook/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gradebook/GradeBookMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heartRates/HeartRateMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heartRates/HeartRates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heartprofile/HeartProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heartprofile/HeartProfileMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/humanOop/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/humanOop/MainHuman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/humanOop/Native.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tictac/TicMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tictac/TicTac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/time/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/totall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/votersApp/Adminstration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/votersApp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/votersApp/Party.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/votersApp/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/StudentManagementSystem/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/bankApp/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/bankApp/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/timetest/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +170,7 @@
       <workItem from="1677097615233" duration="2214000" />
       <workItem from="1677107124470" duration="8638000" />
       <workItem from="1677220262463" duration="8892000" />
-      <workItem from="1677325850738" duration="4150000" />
+      <workItem from="1677325850738" duration="5331000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1677439030881</created>
@@ -225,11 +179,29 @@
       <option name="project" value="LOCAL" />
       <updated>1677439030881</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1677439444345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677439444345</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
